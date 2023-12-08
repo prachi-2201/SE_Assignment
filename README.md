@@ -1,2 +1,2 @@
 # SE_Assignment
-Basics of software enginerring,diarams(DFD,Usecase,FLowchart)
+Basics of software enginerring,diagrams(DFD,Usecase,FLowchart)
